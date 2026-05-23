@@ -2,9 +2,9 @@
 
 - 🤩 I'm a sophomore @SJTU-ACM-Class2024.
 
-- 🔭 I'm currently working on **RCompiler & rCore.**
+- 🔭 I'm currently working on **PF-Probe & Poseidon.**
 
-- 🌱 I'm currently learning **Efficient Machine Learning & Compiler Optimization.**
+- 🌱 I'm currently learning **ML Compiler & Efficient Kernel Generation.**
 
 - 👯 I'm looking to collaborate on **open source projects.**
 
