@@ -2,7 +2,7 @@
 
 - 🤩 I'm a sophomore @SJTU-ACM-Class2024.
 
-- 🔭 I'm currently working on **PF-Probe & Poseidon.**
+- 🔭 I'm currently working on **ArchLite & Poseidon.**
 
 - 🌱 I'm currently learning **ML Compiler & Efficient Kernel Generation.**
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact
    - My favourite Formula 1 team is Ferrari but I believe Mercedes-AMG PETRONAS will win the 26 season.🏎️
-   - I 'm the owner of a Nikon Z30 with a 18140 camera.📸
+   - I 'm the owner of a Nikon Z30 with an 18140 camera.📸
    - My favourite airline is Cathay Pacific.✈️
 
 
