@@ -2,9 +2,9 @@
 
 - 🤩 I'm a sophomore @SJTU-ACM-Class2024.
 
-- 🔭 I'm currently working on **ArchLite & Poseidon.**
+- 🔭 I'm currently working on **Vagabot.**
 
-- 🌱 I'm currently learning **ML Compiler & Efficient Kernel Generation.**
+- 🌱 I'm currently learning **Kernel Generation & Optimization.**
 
 - 👯 I'm looking to collaborate on **open source projects.**
 
